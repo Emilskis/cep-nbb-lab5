@@ -1,0 +1,78 @@
+
+Host Name:                     MSI
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Sam_Maghirang
+Registered Organization:       Seneca_College
+Product ID:                    00342-22141-93998-AAOEM
+Original Install Date:         2024-11-10, 10:13:39 AM
+System Boot Time:              2025-09-15, 11:25:11 AM
+System Manufacturer:           Micro-Star International Co., Ltd.
+System Model:                  Modern 15 B12M
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 154 Stepping 4 GenuineIntel ~2500 Mhz
+BIOS Version:                  American Megatrends International, LLC. E15H1IMS.10D, 2023-03-30
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:         16,088 MB
+Available Physical Memory:     8,485 MB
+Virtual Memory: Max Size:      26,328 MB
+Virtual Memory: Available:     18,174 MB
+Virtual Memory: In Use:        8,154 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\MSI
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5064401
+                               [02]: KB5065426
+                               [03]: KB5064531
+Network Card(s):               4 NIC(s) Installed.
+                               [01]: LogMeIn Hamachi Virtual Ethernet Adapter
+                                     Connection Name: Hamachi
+                                     Status:          Hardware not present
+                               [02]: VMware Virtual Ethernet Adapter for VMnet8
+                                     Connection Name: VMware Network Adapter VMnet8
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.222.1
+                                     [02]: fe80::764e:a4d1:fa9f:9c23
+                               [03]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.101.20.20
+                                     IP address(es)
+                                     [01]: 10.248.146.218
+                                     [02]: fe80::c005:3e1d:2b3e:8bf6
+                               [04]: VMware Virtual Ethernet Adapter for VMnet1
+                                     Connection Name: VMware Network Adapter VMnet1
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.14.1
+                                     [02]: fe80::9a47:a481:910f:ab1f
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+smden
